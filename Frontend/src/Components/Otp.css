@@ -1,0 +1,15 @@
+.input-tag{
+    height: 40px;
+    width: 40px;
+    background-color: red;
+    margin-left: 10px;
+}
+.button-tag{
+    height: 45px;
+    width: 150px;
+    font-weight: bolder;
+    font-size: medium;
+    color: rgb(11, 11, 101);
+    background-color: red;
+    border-radius:5px;
+}
